@@ -47,12 +47,12 @@
         "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.BarHitErrorMeter, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": 300.0
+          "y": 315.0
         },
         "Rotation": -90.0,
         "Scale": {
-          "x": 1.15,
-          "y": 1.15
+          "x": 1.2,
+          "y": 1.2
         },
         "Width": null,
         "Height": null,

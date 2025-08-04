@@ -29,7 +29,7 @@
         "Type": "osu.Game.Screens.Play.HUD.ArgonComboCounter, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": 250.0
+          "y": 265.0
         },
         "Rotation": 0.0,
         "Scale": {
@@ -51,7 +51,7 @@
         "Type": "osu.Game.Screens.Play.HUD.ClicksPerSecond.ClicksPerSecondCounter, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": 310.0
+          "y": 325.0
         },
         "Rotation": 0.0,
         "Scale": {
@@ -92,7 +92,7 @@
         "Type": "osu.Game.Screens.Play.HUD.HitErrorMeters.ColourHitErrorMeter, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": 300.0
+          "y": 315.0
         },
         "Rotation": -90.0,
         "Scale": {
@@ -115,7 +115,7 @@
         "Type": "osu.Game.Screens.Play.HUD.BPMCounter, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": -160.0
+          "y": -135.0
         },
         "Rotation": 0.0,
         "Scale": {
@@ -134,7 +134,7 @@
         "Type": "osu.Game.Skinning.Components.BeatmapAttributeText, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
         "Position": {
           "x": 0.0,
-          "y": -130.0
+          "y": -120.0
         },
         "Rotation": 0.0,
         "Scale": {
