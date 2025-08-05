@@ -154,6 +154,25 @@
         "UsesFixedAnchor": false,
         "Settings": {},
         "Children": []
+      },
+      {
+        "Type": "osu.Game.Screens.Play.ArgonKeyCounterDisplay, osu.Game, Version=2025.710.0.0, Culture=neutral, PublicKeyToken=null",
+        "Position": {
+          "x": 0.0,
+          "y": -22.5
+        },
+        "Rotation": 0.0,
+        "Scale": {
+          "x": 1.32,
+          "y": 1.32
+        },
+        "Width": null,
+        "Height": null,
+        "Anchor": 20,
+        "Origin": 20,
+        "UsesFixedAnchor": false,
+        "Settings": {},
+        "Children": []
       }
     ]
   }
